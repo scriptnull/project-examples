@@ -5,5 +5,5 @@ resolver:
   repo: jcenter
   serverID: Default-Server
 deployer:
-  repo: vishnu-local
+  repo: test-gradle-local
   serverID: Default-Server
