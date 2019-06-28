@@ -1,0 +1,9 @@
+version: 1
+type: gradle
+usePlugin: true
+resolver:
+  repo: jcenter
+  serverID: Default-Server
+deployer:
+  repo: test-gradle-local
+  serverID: Default-Server
