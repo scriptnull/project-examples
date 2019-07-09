@@ -3,7 +3,7 @@ type: gradle
 usePlugin: true
 resolver:
   repo: jcenter
-  serverID: Default-Server
+  serverID: art
 deployer:
   repo: test-gradle-local
-  serverID: Default-Server
+  serverID: art
